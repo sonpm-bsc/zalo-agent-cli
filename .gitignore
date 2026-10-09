@@ -13,3 +13,6 @@ agent/
 
 # Agent configuration (local only)
 .agents/
+
+__pycache__/
+*.pyc
